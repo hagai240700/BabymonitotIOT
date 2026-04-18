@@ -1,0 +1,11 @@
+DHT_PIN = 4
+SOUND_PIN = 17
+LIGHT_PIN = 27
+
+MAX_TEMP = 28.0
+MAX_HUMIDITY = 70.0
+
+BOT_TOKEN = "YOUR_TOKEN"
+CHAT_ID = "YOUR_CHAT_ID"
+
+CSV_FILE = "data/baby_room_log.csv"
